@@ -1,0 +1,19 @@
+#header-carousel
+{
+    margin-top: -3%;
+    margin-bottom: -3%;
+}
+
+ #header-carousel img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover;
+   
+}
+
+.h410{
+    height: 800px!important;
+}
+
+
+

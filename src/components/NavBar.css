@@ -1,0 +1,93 @@
+.home1-wrapper{
+    display: flex;
+    height: 50vh;
+    width: 100%;
+    background-color: red;
+
+}
+.menu{
+    background-color: black !important;
+}
+.nav-item{
+    margin: auto;
+    text-transform: uppercase;
+    font-weight: bolder;
+   
+}
+.nav-link{
+    color: #D19C97 !important;
+    box-shadow: 0 0 15px rgba(209, 156, 151, 0.8);
+    
+}
+.categories{
+    display: flex;
+    width: 20%;
+    background-color: aqua;
+}
+.cart-icon{
+    margin-right: 10px;
+}
+.home-slider{
+    display: flex;
+    width: 80%;
+    background-color: blueviolet;
+}
+
+.cat-btn{
+    margin: auto;
+    
+    height: 50px!important;
+    background-color: #D19C97;
+    display: flex;
+    align-items: center;
+    padding:0 5% ;
+    color: #000 !important;
+    text-transform:uppercase;
+    
+}
+.bd{
+    box-shadow: 0 0 15px rgba(209, 156, 151, 0.8);
+}
+.bdS
+{
+    box-shadow: 0 0 15px rgba(209, 156, 151, 0.8);
+    background-color: rgba(209, 156, 151, 0.8);
+    color:#fff !important;
+    font-weight: 900;
+}
+h1{
+    color: #fff;
+}
+.navbar-nav a{
+   margin: 0 35px;
+}
+
+.seperator{
+    height: 2px;
+    
+    background-color: #fff !important;
+    width: 100%;
+}
+
+.dropdown-menu{
+    background-color:rgba(209, 156, 151, 0.96);
+    border:4px solid #000;
+    box-shadow: 0 0 60px #000;
+    width: 100%;
+}
+
+.dropdown-menu a{
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+    font-weight: 700;
+    
+  
+}
+
+.dropdown-menu a:hover{
+    background-color: rgba(181, 101, 29, 0.5);
+    border-radius: 10px;
+    color: white;
+    width: 80%;
+    margin: auto;
+}

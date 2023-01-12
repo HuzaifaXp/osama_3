@@ -1,0 +1,16 @@
+.fadeInDown {
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: fadeInDown; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
+  }
+
+  .lightSpeedInRight {
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: lightSpeedInRight; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 1s; /* don't forget to set a duration! */
+  }
+

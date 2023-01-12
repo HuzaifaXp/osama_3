@@ -1,0 +1,26 @@
+.w130{
+width: 130px;
+}
+.w45{
+    width: 45px;
+}
+
+.pad-9 {
+    padding: 9%;
+   
+}
+
+.hidden
+{
+    display: 'none';
+}
+.visible
+{
+    display: 'block';
+}
+
+.mb-3{
+    width: 15%;
+    color: #D19C97 !important;
+    box-shadow: 0 0 15px rgb(209 156 151 / 80%);
+}

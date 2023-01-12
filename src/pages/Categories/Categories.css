@@ -1,0 +1,55 @@
+
+.category-padding{
+    
+    box-shadow: 0 0 15px #D19C97;
+
+	height: 70vh;
+    align-items: center;
+    color: #fff;
+    margin: auto;
+}
+.cat-header{
+    font-size: 3rem !important;
+    font-weight: bolder;
+}
+.center{
+    justify-content: center !important;
+    background: linear-gradient(-45deg, #f8f0ee, #f180ab, #f0f4f5, #23d5ab, #D19C97);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	
+}
+img{
+	cursor: pointer;
+}
+.card{
+	height: 400px;
+}
+
+.prod-container{
+	
+	width:80% ;
+	margin: auto !important;
+}
+.product-item{
+	box-shadow: 0 0 15px #f180ab;
+}
+.pad-9
+{
+    
+    overflow: auto !important;
+    z-index: 999;
+    
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

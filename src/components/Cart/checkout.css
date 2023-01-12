@@ -1,0 +1,23 @@
+.chkOut{
+
+    border: 1px solid #D19C97 !important;
+    box-shadow: 0 0 5px #D19C97;
+
+
+}
+
+#chkOutForm label{
+    color: #D19C97;
+    font-weight: bold;
+}
+.Products {
+    width: 26%;
+    color: #D19C97 !important;
+    box-shadow: 0 0 15px rgb(209 156 151 / 80%);}
+
+    label i {
+        color:red;
+        font-size: 1.5rem;
+        vertical-align: middle;
+        font-weight: bold;
+    }
